@@ -7,6 +7,7 @@ public class AssistantRegionalManager extends Employee{
 	AssistantRegionalManager(int IDNumber, String name, Task[] tasklist, RegionalManager manager, int minimumTask){
 		this.manager = manager;
 		
+		//hi
 	}
 	//getters and setters
 	public RegionalManager getManager(){
